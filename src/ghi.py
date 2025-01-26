@@ -1,0 +1,2 @@
+def vamshi():
+    print("sunny")
